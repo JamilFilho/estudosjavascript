@@ -1,4 +1,4 @@
-Meus estudos - JavasScript
+Meus estudos - JavaScript
 ======
 Repositório para registro do progresso dos meus estudos em JavaScript
 
